@@ -1,18 +1,46 @@
-#Hotel Reservation
-Aplikasi web untuk reservasi hotel/homestay denga payment gateway <b>Midtrans</b>
-</br>
-Create using CodeIgniter 4 with Blade Templating
-</br>
-</br>
+#Sistem Order Homestay Reservasi
+Sistem order homestay reservasi adalah sebuah sistem yang dibangung menggunakan framework codeigniter 4 dan menggunakan 1 landing page yang mencangkup semua hal yang ada di aplikasi ini. Saat membuat ini saya mengambil data Sadewa Homestay dari Yogyakarta dan bisa digunakan untuk melakukan transaksi online dengan pembayaran menggunakan Midtrans. berikut spesifikasi tentang aplikasi ini.
 
-![001](https://user-images.githubusercontent.com/44487637/142625733-394d99a5-3a2f-419c-a8a0-9b11761fa544.PNG)
-![002](https://user-images.githubusercontent.com/44487637/142625741-31953a1c-ef64-4f6a-9ad7-192693cc4589.PNG)
-![003](https://user-images.githubusercontent.com/44487637/142625750-a66ef1cc-6d2b-4a41-a596-2fd1933eb9c7.PNG)
-![004](https://user-images.githubusercontent.com/44487637/142625751-665a1893-2f64-413a-9595-67794f98c7f7.PNG)
-![005](https://user-images.githubusercontent.com/44487637/142625756-866f7204-f5e5-49b6-8a38-8c8442d3a7f9.PNG)
-![006](https://user-images.githubusercontent.com/44487637/142625757-296a82a9-9c07-400d-a72c-e54dbc9ac4d8.PNG)
-![007](https://user-images.githubusercontent.com/44487637/142625759-6d3236a3-c2ce-4e1b-aab9-f15ef5586657.PNG)
-![008](https://user-images.githubusercontent.com/44487637/142625763-85f1a7e9-c78e-490e-ad0b-bfa0f563861d.PNG)
-![009](https://user-images.githubusercontent.com/44487637/142625769-3d2f5603-f538-49d7-b5d2-7c5c134b8833.PNG)
-![010](https://user-images.githubusercontent.com/44487637/142625773-5d3f247c-c25b-469b-b9ee-1e3c549a4da2.PNG)
-![011](https://user-images.githubusercontent.com/44487637/142625774-fe85e5b6-9314-483b-a8d2-6fb1e9a3687c.PNG)
+* Menggunakan Bahasa Pemerograman PHP dan Javascript
+* Menggunakan Framework Codeigniter 4 (Rekomendasi PHP 7.4 - 8.0)
+* Menggunakan Payment gatway Midtrans
+
+Untuk fiture yang tersedia pada website ini seperti berikut,
+
+* Kelola transaksi
+* Kelola Kamar
+* Kelola Coursel
+* Melakukan Pemesanan
+* Melakukan register dan Login
+
+Untuk Request database dan sumbangan bisa menghubungi mdhiftaa@gmail.com
+
+Berikut tampilan aplikasi Homestay reservasi
+
+# Landing Page
+* Home Page
+![dashboard-landing](https://user-images.githubusercontent.com/53687992/178919935-86b6040f-cb08-4706-8c64-152f20384b2a.PNG)
+![landing-home2](https://user-images.githubusercontent.com/53687992/178920010-2b5e9a94-0f83-4078-8efe-0779b0addf80.PNG)
+
+* Cari Kamar
+![cari-kamar](https://user-images.githubusercontent.com/53687992/178919896-0c67bece-3b41-42f6-96a6-d144ab31087c.PNG)
+
+* Check in dan Pemesanan
+![checkin](https://user-images.githubusercontent.com/53687992/178919927-da785049-5cf0-480f-9239-d1674e8e23f9.PNG)
+![midtrans](https://user-images.githubusercontent.com/53687992/178920070-addf1ebf-ad46-477c-bc9c-ab0c48cae9a7.PNG)
+
+* Riwayat Transaksi
+![riwayat-pemesanan](https://user-images.githubusercontent.com/53687992/178919885-a439314b-cf41-4a47-b6cd-78665ee741ad.PNG)
+
+# Admin Page
+* Dashboard admin
+![admin-dashboard](https://user-images.githubusercontent.com/53687992/178920519-6842d866-4bd8-4571-b929-1a2604d57d2c.PNG)
+
+* Kelola Kamar
+![admin-setting-kamar](https://user-images.githubusercontent.com/53687992/178920501-8a5380f7-1b15-4fdc-9171-5bd219658853.PNG)
+
+* Kelola Coursel
+![admin-coursel](https://user-images.githubusercontent.com/53687992/178920514-c8472d9b-1bc3-4fb6-864e-137164c51a95.PNG)
+
+* List Order
+![admin-list-order](https://user-images.githubusercontent.com/53687992/178920525-3ca14d6c-7c11-4de7-928a-e9108f31f34d.PNG)
