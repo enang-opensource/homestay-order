@@ -4,12 +4,6 @@ Aplikasi web untuk reservasi hotel/homestay denga payment gateway <b>Midtrans</b
 Create using CodeIgniter 4 with Blade Templating
 </br>
 </br>
-Database contact me: rafhoerdeft@gmail.com
-<br />
-Telegram: https://t.me/ErdevApp
-<br />
-WhatsApp: https://bit.ly/3x05IXT
-
 
 ![001](https://user-images.githubusercontent.com/44487637/142625733-394d99a5-3a2f-419c-a8a0-9b11761fa544.PNG)
 ![002](https://user-images.githubusercontent.com/44487637/142625741-31953a1c-ef64-4f6a-9ad7-192693cc4589.PNG)

@@ -28,7 +28,7 @@
                 </ul>
             </div>
             <div class="col-12">
-                <p>Copyright &#169; <a href="https://erdevapp.com" target="_blank">Sadewa Homestay</a> All Rights Reserved.</p>
+                <p>Copyright &#169; <a href="https://digisoft.id" target="_blank">Sadewa Homestay</a> All Rights Reserved.</p>
             </div>
         </div>
     </div>
